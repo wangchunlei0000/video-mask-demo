@@ -5,7 +5,7 @@
     <!-- <div id="mui-player"></div> -->
     <div class="video-wrapper">
       <div id="vs">
-        <!-- <div class="watermark">sdsgjdgsj</div> -->
+        <div class="watermark">sdsgjdgsj</div>
       </div>
     </div>
   </div>
